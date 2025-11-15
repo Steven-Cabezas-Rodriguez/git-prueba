@@ -9,3 +9,5 @@ Este es mi primer repositorio de prueba con Git.
 - git add
 - git commit
 - git log
+- git pull
+- git push
