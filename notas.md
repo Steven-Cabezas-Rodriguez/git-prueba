@@ -11,3 +11,9 @@ Este es mi primer repositorio de prueba con Git.
 - git log
 - git pull
 - git push
+
+
+## Notas sobre ramas
+
+- Una rama permite trabajar en cambios sin afectar la rama principal.
+- Luego podemos fusionarla (merge) con main.
