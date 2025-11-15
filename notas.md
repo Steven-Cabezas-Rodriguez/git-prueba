@@ -17,4 +17,4 @@ Este es mi primer repositorio de prueba con Git.
 
 - Una rama permite trabajar en cambios sin afectar la rama principal.
 - Luego podemos fusionarla (merge) con main.
-- Conflictos
+- Conflictos entre ramas.
